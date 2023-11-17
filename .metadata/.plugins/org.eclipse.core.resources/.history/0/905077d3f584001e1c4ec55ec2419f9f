@@ -1,0 +1,44 @@
+package com.example.application.test;
+import org.junit.jupiter.api.Test;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import com.example.application.views.*;
+
+public class PacientFormTest {
+
+    @Test
+    public void testPacienteCrear() {
+        // Configuración del sistema de propiedades para el navegador Chrome
+        System.setProperty("webdriver.chrome.driver", "ruta/al/driver/chromedriver");
+
+        // Inicialización del WebDriver
+        WebDriver driver = new ChromeDriver();
+
+        try {
+            // Abrir la aplicación
+            driver.get("http://localhost:8080/pacientes");
+
+            // Simular interacciones del usuario
+            WebElement dNiField = driver.findElement(By.id("dNi"));
+            dNiField.sendKeys("123456789"); // Reemplaza con un valor válido
+
+            WebElement firstNameField = driver.findElement(By.id("firstName"));
+            firstNameField.sendKeys("John");
+
+            // Continúa simulando otras interacciones...
+
+            // Hacer clic en el botón Save
+            WebElement saveButton = driver.findElement(By.id("save"));
+            saveButton.click();
+
+            // Verificar que la aplicación responda correctamente
+            // Puedes usar assertions o verificar cambios en la interfaz después de hacer clic en Save
+
+        } finally {
+            // Cerrar el navegador al finalizar la prueba
+            driver.quit();
+        }
+    }
+}

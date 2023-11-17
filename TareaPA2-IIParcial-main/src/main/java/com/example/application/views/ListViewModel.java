@@ -25,7 +25,11 @@ public class ListViewModel extends VerticalLayout {
         header.addClassNames(Margin.Top.XLARGE, Margin.Bottom.MEDIUM);
         add(header);
         add(new Paragraph("Sistema de Gestion de Hospital"));
-
+        add(new Paragraph(" UTH Programacion Avanzada II"));
+        add(new Paragraph(" Grupo 3"));
+        add(new Paragraph(" Adolfo Carranza 201020043069"));
+        add(new Paragraph(" Marta Anabel Perez 202010010082 "));
+        
         setSizeFull();
         setJustifyContentMode(JustifyContentMode.CENTER);
         setDefaultHorizontalComponentAlignment(Alignment.CENTER);

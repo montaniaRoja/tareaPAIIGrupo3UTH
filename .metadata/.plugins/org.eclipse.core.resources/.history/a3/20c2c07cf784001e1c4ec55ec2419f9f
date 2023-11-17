@@ -1,0 +1,10 @@
+package com.example.application.test;
+
+public class PacienteFormTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

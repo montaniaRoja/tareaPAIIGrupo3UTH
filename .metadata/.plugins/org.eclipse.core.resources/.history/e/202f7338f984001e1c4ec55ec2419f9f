@@ -1,0 +1,44 @@
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import static java.time.Duration.ofSeconds;
+import static org.openqa.selenium.support.ui.ExpectedConditions.titleIs;
+
+public class PacienteFormTest {
+
+    public static void main(String[] args) throws InterruptedException {
+
+        // Configuración del sistema de propiedades para el navegador Chrome
+        //System.setProperty("webdriver.chrome.driver", "ruta/al/driver/chromedriver");
+
+        WebDriver driver = new ChromeDriver();
+
+        try {
+            driver.get("http://localhost:8080/pacientes");
+
+            // Espera hasta que el título de la página sea "Pacientes"
+            new WebDriverWait(driver, ofSeconds(30), ofSeconds(1))
+                    .until(titleIs("Pacientes"));
+
+            // Encuentra el campo de DNI por XPath
+            WebElement campoDni = driver.findElement(By.xpath("//vaadin-text-field[@id='dNi']"));
+
+            // Realiza clic en el campo DNI
+            campoDni.click();
+
+            // Ingresa un valor en el campo DNI
+            campoDni.sendKeys("123789456");
+
+            // Espera por 2 segundos (esto puede ser reemplazado con ExpectedConditions u otras esperas)
+            Thread.sleep(2000);
+
+            // Agrega aquí más interacciones según tu flujo de prueba
+
+        } finally {
+            // Cierra el navegador al finalizar la prueba
+            driver.quit();
+        }
+    }
+}

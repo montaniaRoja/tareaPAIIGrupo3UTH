@@ -22,6 +22,7 @@ public class PacientForm extends FormLayout {
   //componentes del formulario
   
   TextField dNi = new TextField("Numero de Identidad");
+  
   TextField firstName = new TextField("Nombre"); 
   TextField lastName = new TextField("Apellidos");
   DatePicker datePicker = new DatePicker("Fecha de Nacimiento");
@@ -49,7 +50,8 @@ public class PacientForm extends FormLayout {
   
   public PacientForm() {
 	  
-	
+	dNi.setId("dNi");
+	appmnt.setId("citas");
     addClassName("pacient-form");
     binder.bindInstanceFields(this); 
     genero.setItems(generos);

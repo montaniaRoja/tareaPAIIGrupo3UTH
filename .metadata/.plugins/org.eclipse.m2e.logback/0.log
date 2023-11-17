@@ -26,3 +26,124 @@
 2023-11-16 19:13:54,232 [Worker-5: Building] INFO  c.v.f.s.f.TaskCopyFrontendFiles - Copying frontend resources from jar files ...
 2023-11-16 19:13:54,383 [Worker-5: Building] INFO  c.v.f.s.f.TaskCopyFrontendFiles - Visited 167 resources. Took 150 ms.
 2023-11-16 19:13:54,390 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/src/test/resources
+2023-11-16 20:14:22,423 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-16 20:40:56,463 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-11-16 20:40:56,507 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2023-11-16 20:40:56,521 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/src/test/resources
+2023-11-16 20:45:11,895 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-11-16 20:45:11,899 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2023-11-16 20:45:11,903 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/src/test/resources
+2023-11-16 20:50:46,032 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-11-16 20:50:46,055 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2023-11-16 20:50:46,059 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/src/test/resources
+2023-11-16 20:53:10,205 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-11-16 20:53:10,216 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2023-11-16 20:53:10,222 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/src/test/resources
+2023-11-16 20:55:53,101 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-11-16 20:55:53,108 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2023-11-16 20:55:53,118 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/src/test/resources
+2023-11-16 20:56:41,558 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-11-16 20:56:41,559 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-11-16 20:56:41,563 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/src/test/resources
+2023-11-16 20:57:04,447 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-11-16 20:57:04,447 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-11-16 20:57:04,450 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/src/test/resources
+2023-11-16 20:59:18,741 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-11-16 20:59:18,748 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2023-11-16 20:59:18,760 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/src/test/resources
+2023-11-16 21:03:04,633 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-11-16 21:03:04,637 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2023-11-16 21:03:04,640 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/src/test/resources
+2023-11-16 21:03:09,307 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-11-16 21:03:09,319 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2023-11-16 21:03:09,322 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/src/test/resources
+2023-11-16 21:03:33,941 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-11-16 21:03:33,945 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2023-11-16 21:03:33,949 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/src/test/resources
+2023-11-16 21:14:58,302 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-11-16 21:14:58,310 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2023-11-16 21:14:58,324 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/src/test/resources
+2023-11-16 21:16:57,432 [Worker-31: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.application:flowcrmtutorial:1.0-SNAPSHOT @ /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/pom.xml.
+2023-11-16 21:16:58,479 [Worker-31: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.vaadin.com/vaadin-addons/org/seleniumhq/selenium/selenium-java/4.14.1/selenium-java-4.14.1.pom
+2023-11-16 21:16:58,735 [Worker-31: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/4.14.1/selenium-java-4.14.1.pom
+2023-11-16 21:16:58,874 [Worker-31: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/4.14.1/selenium-java-4.14.1.pom
+2023-11-16 21:16:59,431 [Worker-31: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.vaadin.com/vaadin-addons/org/seleniumhq/selenium/selenium-java/4.14.1/selenium-java-4.14.1.jar
+2023-11-16 21:16:59,494 [Worker-31: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/4.14.1/selenium-java-4.14.1.jar
+2023-11-16 21:16:59,543 [Worker-31: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/4.14.1/selenium-java-4.14.1.jar
+2023-11-16 21:16:59,783 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-11-16 21:16:59,783 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-11-16 21:16:59,787 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/src/test/resources
+2023-11-16 21:17:01,012 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.vaadin.com/vaadin-addons/org/seleniumhq/selenium/selenium-java/4.14.1/selenium-java-4.14.1-sources.jar
+2023-11-16 21:17:01,193 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/4.14.1/selenium-java-4.14.1-sources.jar
+2023-11-16 21:17:01,321 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/4.14.1/selenium-java-4.14.1-sources.jar
+2023-11-16 21:17:01,323 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-java:4.14.1
+2023-11-16 21:26:02,153 [Worker-31: Launching PacienteFormTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-11-16 21:26:02,186 [Worker-31: Launching PacienteFormTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2023-11-16 21:26:02,193 [Worker-31: Launching PacienteFormTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/src/test/resources
+2023-11-16 21:27:22,665 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-11-16 21:27:22,675 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2023-11-16 21:27:22,680 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/src/test/resources
+2023-11-16 21:28:22,345 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-11-16 21:28:22,355 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2023-11-16 21:28:22,362 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/src/test/resources
+2023-11-16 21:30:17,793 [Worker-36: Launching PacienteFormTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-11-16 21:30:17,797 [Worker-36: Launching PacienteFormTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2023-11-16 21:30:17,801 [Worker-36: Launching PacienteFormTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/src/test/resources
+2023-11-16 21:33:08,558 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-11-16 21:33:08,565 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2023-11-16 21:33:08,575 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/src/test/resources
+2023-11-16 21:35:57,966 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-11-16 21:35:57,975 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2023-11-16 21:35:57,990 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/src/test/resources
+2023-11-16 21:38:00,104 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-11-16 21:38:00,109 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2023-11-16 21:38:00,114 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/src/test/resources
+2023-11-16 21:38:42,345 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-11-16 21:38:42,349 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2023-11-16 21:38:42,362 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/src/test/resources
+2023-11-16 21:39:43,351 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-11-16 21:39:43,355 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2023-11-16 21:39:43,359 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/src/test/resources
+2023-11-16 21:43:27,173 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-11-16 21:43:27,177 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2023-11-16 21:43:27,180 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/src/test/resources
+2023-11-16 21:46:25,899 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-11-16 21:46:25,904 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2023-11-16 21:46:25,909 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/src/test/resources
+2023-11-16 21:54:43,428 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-11-16 21:54:43,442 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2023-11-16 21:54:43,445 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/src/test/resources
+2023-11-16 21:57:40,622 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-11-16 21:57:40,628 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2023-11-16 21:57:40,631 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/src/test/resources
+2023-11-16 21:58:25,352 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-11-16 21:58:25,355 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2023-11-16 21:58:25,361 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/src/test/resources
+2023-11-16 21:59:27,355 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-11-16 21:59:27,366 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2023-11-16 21:59:27,377 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/src/test/resources
+2023-11-16 22:03:06,493 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-11-16 22:03:06,499 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2023-11-16 22:03:06,505 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/src/test/resources
+2023-11-16 22:04:05,699 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-11-16 22:04:05,702 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2023-11-16 22:04:05,704 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/src/test/resources
+2023-11-16 22:08:43,296 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-11-16 22:08:43,301 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2023-11-16 22:08:43,306 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/src/test/resources
+2023-11-16 22:10:11,207 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-11-16 22:10:11,219 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2023-11-16 22:10:11,231 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/src/test/resources
+2023-11-16 22:11:25,056 [Worker-50: Launching PacienteFormTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-11-16 22:11:25,068 [Worker-50: Launching PacienteFormTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2023-11-16 22:11:25,072 [Worker-50: Launching PacienteFormTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/src/test/resources
+2023-11-16 22:12:26,803 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-11-16 22:12:26,808 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2023-11-16 22:12:26,819 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/src/test/resources
+2023-11-16 22:12:53,887 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-11-16 22:12:53,904 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2023-11-16 22:12:53,909 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/src/test/resources
+2023-11-16 22:13:24,369 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-16 22:21:11,483 [Worker-4: Launching PacienteFormTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-11-16 22:21:11,508 [Worker-4: Launching PacienteFormTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2023-11-16 22:21:11,514 [Worker-4: Launching PacienteFormTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/src/test/resources

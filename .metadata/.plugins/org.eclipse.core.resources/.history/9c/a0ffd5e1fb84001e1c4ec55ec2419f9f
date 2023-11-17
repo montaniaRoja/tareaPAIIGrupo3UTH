@@ -1,0 +1,47 @@
+package com.example.application.test;
+
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import static java.time.Duration.ofSeconds;
+import static org.openqa.selenium.support.ui.ExpectedConditions.titleIs;
+
+public class PacienteFormTest {
+
+    public static void main(String[] args) throws InterruptedException {
+
+       
+        //System.setProperty("webdriver.chrome.driver", "ruta/al/driver/chromedriver");
+
+        WebDriver driver = new ChromeDriver();
+
+        try {
+            driver.get("http://localhost:8080/pacientes");
+
+            
+            new WebDriverWait(driver, ofSeconds(30), ofSeconds(1))
+                    .until(titleIs("Pacientes | Hospital CRM"));
+
+           
+            WebElement addButton = driver.findElement(By.xpath("//vaadin-button[@id='addP']"));
+
+            
+            addButton.click();
+
+            
+            //campoDni.sendKeys("123789456");
+
+           
+            Thread.sleep(5000);
+
+            
+
+        } finally {
+            
+            driver.quit();
+        }
+    }
+}

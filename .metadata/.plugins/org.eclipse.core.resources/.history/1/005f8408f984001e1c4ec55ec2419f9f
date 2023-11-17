@@ -1,0 +1,23 @@
+package com.example.application.test;
+
+public class PacienteFormTest {
+
+	public static void main(String[] args)  throws InterruptedException{
+		
+		WebDriver driver = new ChromeDriver();
+		
+		try {
+			driver.get("http://localhost:8080/pacientes");
+			new WebDriverWait (driver, ofSeconds(30),ofSeconds(1)).until(titleIs("Pacientes"));
+			
+			WebElement campodni= driver.findElement(By.xpath("//vaadin-text-field[@id='dNi']"));
+			
+			
+		}
+		
+		
+		// TODO Auto-generated method stub
+
+	}
+
+}

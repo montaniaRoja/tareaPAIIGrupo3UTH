@@ -32,6 +32,7 @@ public class HistorialForm extends FormLayout implements HasUrlParameter<String>
   BeanValidationBinder<Historial> binder = new BeanValidationBinder<>(Historial.class);
 
   public HistorialForm() {
+	  close.setId("close");
 	  dniPaciente=new TextField("DNI Paciente");
 	  addClassName("historial-form"); 
     

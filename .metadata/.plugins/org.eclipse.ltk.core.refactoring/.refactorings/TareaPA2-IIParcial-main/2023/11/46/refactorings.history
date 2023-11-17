@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;TareaPA2-IIParcial-main&apos;&#x0A;- Original project: &apos;TareaPA2-IIParcial-main&apos;&#x0A;- Original element: &apos;com.example.application.test.PacientFormTest.java&apos;" description="Delete element" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.application.test{PacientFormTest.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1700190189068" subPackages="false" version="1.0"/>
+</session>
