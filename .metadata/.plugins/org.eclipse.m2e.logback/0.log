@@ -1,0 +1,28 @@
+2023-11-16 19:13:17,150 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-16 19:13:39,173 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.application:flowcrmtutorial:1.0-SNAPSHOT @ /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/pom.xml.
+2023-11-16 19:13:42,011 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.vaadin.com/vaadin-addons/com/squareup/okio/okio-jvm/3.0.0/okio-jvm-3.0.0.jar
+2023-11-16 19:13:42,325 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/squareup/okio/okio-jvm/3.0.0/okio-jvm-3.0.0.jar
+2023-11-16 19:13:42,579 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/squareup/okio/okio-jvm/3.0.0/okio-jvm-3.0.0.jar
+2023-11-16 19:13:47,775 [Worker-8: Importing Maven projects] INFO  org.reflections.Reflections - Reflections took 2616 ms to scan 168 urls, producing 9031 keys and 46600 values
+2023-11-16 19:13:47,831 [Worker-8: Importing Maven projects] INFO  c.v.f.s.f.TaskCopyFrontendFiles - Copying frontend resources from jar files ...
+2023-11-16 19:13:48,056 [Worker-8: Importing Maven projects] INFO  c.v.f.s.f.TaskCopyFrontendFiles - Visited 167 resources. Took 225 ms.
+2023-11-16 19:13:48,112 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.vaadin.com/vaadin-addons/com/squareup/okhttp3/okhttp/4.10.0/okhttp-4.10.0-sources.jar
+2023-11-16 19:13:48,177 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TareaPA2-IIParcial-main/src/main/java
+2023-11-16 19:13:48,178 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TareaPA2-IIParcial-main/src/main/resources
+2023-11-16 19:13:48,178 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TareaPA2-IIParcial-main/src/main/resources
+2023-11-16 19:13:48,183 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TareaPA2-IIParcial-main/src/test/java
+2023-11-16 19:13:48,183 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TareaPA2-IIParcial-main/src/test/resources
+2023-11-16 19:13:48,283 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp/4.10.0/okhttp-4.10.0-sources.jar
+2023-11-16 19:13:48,458 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp/4.10.0/okhttp-4.10.0-sources.jar
+2023-11-16 19:13:48,459 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.squareup.okhttp3:okhttp:4.10.0
+2023-11-16 19:13:48,501 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 11 sec
+2023-11-16 19:13:48,826 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven.vaadin.com/vaadin-addons/com/squareup/okio/okio-jvm/3.0.0/okio-jvm-3.0.0-sources.jar
+2023-11-16 19:13:49,271 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/squareup/okio/okio-jvm/3.0.0/okio-jvm-3.0.0-sources.jar
+2023-11-16 19:13:49,416 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/squareup/okio/okio-jvm/3.0.0/okio-jvm-3.0.0-sources.jar
+2023-11-16 19:13:49,417 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.squareup.okio:okio-jvm:3.0.0
+2023-11-16 19:13:50,913 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-11-16 19:13:50,951 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2023-11-16 19:13:54,226 [Worker-5: Building] INFO  org.reflections.Reflections - Reflections took 2563 ms to scan 168 urls, producing 9046 keys and 46623 values
+2023-11-16 19:13:54,232 [Worker-5: Building] INFO  c.v.f.s.f.TaskCopyFrontendFiles - Copying frontend resources from jar files ...
+2023-11-16 19:13:54,383 [Worker-5: Building] INFO  c.v.f.s.f.TaskCopyFrontendFiles - Visited 167 resources. Took 150 ms.
+2023-11-16 19:13:54,390 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/carranza/Documentos/tarea 2 parcial/TareaPA2-IIParcial-main/src/test/resources
